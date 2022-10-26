@@ -1,8 +1,8 @@
 # Store-application-JAVA
-Java application for an online store with the following functionalities:
+Java application for an online store with the following functionalities:<br>
     1. Sign Up <br>
-    2. Sign In
-    3. Product Catalog
-    4. My Orders
-    5. Settings
-    6. Customer List
+    2. Sign In <br>
+    3. Product Catalog <br>
+    4. My Orders <br>
+    5. Settings <br>
+    6. Customer List <br>
